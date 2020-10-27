@@ -1,5 +1,5 @@
 imageio==2.8.0
-cryptography==2.8
+cryptography==3.2
 docopt==0.6.2
 pyfiglet==0.8.post1
 bitstring==3.1.6
